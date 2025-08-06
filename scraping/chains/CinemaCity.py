@@ -11,4 +11,3 @@ class CinemaCity(BaseCinema):
             "body > div.container-fluid.footer > div > p > span:nth-child(3) > strong > a"
         )
         print(a.text)
-        print(items["titles"][0])

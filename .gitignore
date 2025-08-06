@@ -3,3 +3,5 @@
 
 # SECRET KEYS
 keys.py
+
+__init__.py
